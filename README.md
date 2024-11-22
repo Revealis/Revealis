@@ -28,7 +28,6 @@ Hi! I'm Mehmetcan ANGÜN, a self-developing **Junior Big Data Engineer** with a 
 
 ### 🌍 Connect with Me
 - **LinkedIn**: [mehmetcan-angün](https://www.linkedin.com/in/mehmetcan-angün-28353406-ma)  
-- **GitHub**: [Revealıs](https://github.com/Revealıs)  
 - **Medium**: [mehmetcan angün](https://medium.com/@Mehmtcnangn)  
 
 ---
