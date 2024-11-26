@@ -70,7 +70,7 @@ Cleaned, processed, and visualized datasets using **Power BI** and Python.
 Explored customer feedback and performed sentiment analysis using **PySpark** and **SQL**.  
 **Technologies**: PySpark, Pandas, Faker, TextBlob, NLTK  
 
-🔗 Explore more of my projects on [GitHub](https://github.com/Revealıs) and [Medium](https://medium.com/@Mehmtcnangn).  
+🔗 Explore more of my projects on [Medium](https://medium.com/@Mehmtcnangn).  
 
 ---
 
