@@ -40,7 +40,7 @@ Hi! I'm **Mehmetcan ANGÜN**, a self-motivated **Junior Big Data Engineer** with
 ---
 
 ## 💻 Technical Skills
-- **Programming Languages**: Python, SQL  
+- **Programming Languages**: Python, SQL, Linux  
 - **Big Data Technologies**: Apache Spark, Kafka, PySpark  
 - **Database Management**: Oracle SQL, PostgreSQL, MSSQL  
 - **Visualization Tools**: Power BI, Looker Studio  
