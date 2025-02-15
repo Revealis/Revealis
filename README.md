@@ -58,8 +58,9 @@
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://media.giphy.com/media/Q8I2t1gGShlXaXgFVm/giphy.gif)](https://www.linkedin.com/in/mehmetcan-angün-28353406-ma)
-[![Medium](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)](https://medium.com/@Mehmtcnangn)
+[![LinkedIn](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FrMzdrYXIxZDVhamhoNzdncHF6MHNsazZqNTlwbWdod2djNjI2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CCPw50IMVRu0DVwd0A/giphy.gif)](https://www.linkedin.com/in/mehmetcan-angün-28353406-ma)
+
+[![Medium](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ4czdzZ2cyOTMwb2hleXBxYWl1aWhwZzhjdjFxd3A2aDFyZXgwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wq8i42KPEkv73G9Y4p/giphy.gif)](https://medium.com/@Mehmtcnangn)
 
 ---
 
