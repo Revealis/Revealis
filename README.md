@@ -1,85 +1,65 @@
-# 🌟 About Me
+![Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdodzI4bTFmOW9xbW03a21iYTNhNDA0aGhmNGVkejg4cTdrenI4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
-Hi! I'm **Mehmetcan ANGÜN**, a self-motivated **Junior Big Data Engineer** with expertise in **Python, SQL**, and **Linux**. I specialize in **big data technologies** like Apache Spark and Kafka, and I'm passionate about transforming raw data into actionable insights. My background in **Biomedical Engineering** provides a unique perspective in solving technical challenges with innovative data-driven solutions.
+# 🌟 Mehmetcan ANGÜN | Junior Big Data Engineer  
 
----
-
-## 🎓 Education
-- **Master’s Degree (Ongoing)**: Data Analytics and Machine Learning  
-  *İzmir Katip Çelebi University (2024 - Present)*  
-- **Bachelor’s Degree**: Biomedical Engineering  
-  *İzmir Katip Çelebi University (2017 - 2024)*  
+🚀 Passionate about **Big Data, Machine Learning, and Data Engineering**. Turning raw data into actionable insights!  
 
 ---
 
-## 💼 Professional Experience
-### **Back-end Developer Bootcamp (Techcareer)**
-- Built a **health-themed website** using Python's Flask framework.  
-- Designed **user-friendly interfaces** with CSS and HTML.  
-- Focused on functionality and responsive design.
-
-### **Python Programming for Data Science Bootcamp (Miuul)**
-- Learned **feature engineering** and built predictive models using Python.  
-
-### **Data Engineering & Big Data Bootcamp (İstanbul Data Science Academy)**
-- Gained expertise in **Apache Spark** and **Kafka** for large-scale data processing.  
-- Built **end-to-end data pipelines** for ingestion, transformation, and storage.  
-
-### **Cloud and Database Systems (BTK Academy)**
-- Hands-on experience with **cloud platforms** like AWS and GCP.  
-- Managed relational databases such as **Oracle SQL**, **PostgreSQL**, and **MSSQL**.  
-
----
-
-## 🚀 Interests
-🎯 Data Engineering and Big Data Technologies  
-🎯 Machine Learning and Data Analytics  
-🎯 Artificial Intelligence Applications in Healthcare  
-🎯 SQL and Cloud Computing (GCP, AWS)  
+## 📌 About Me
+- 🎓 **Master’s Degree (Ongoing)** in Data Analytics and Machine Learning @ *İzmir Katip Çelebi University*
+- 🎓 **Bachelor’s Degree** in Biomedical Engineering @ *İzmir Katip Çelebi University*
+- 🔥 Specialized in **Apache Spark, Kafka, SQL, and Python**
+- 💡 Interested in **AI applications in healthcare and cloud computing**
 
 ---
 
 ## 💻 Technical Skills
-- **Programming Languages**: Python, SQL, Linux  
-- **Big Data Technologies**: Apache Spark, Kafka, PySpark  
-- **Database Management**: Oracle SQL, PostgreSQL, MSSQL  
-- **Visualization Tools**: Power BI, Looker Studio  
-- **Cloud Platforms**: AWS, GCP  
-- **Frameworks and Tools**: Flask, Docker, Pandas, Seaborn, NLTK  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDB813?style=for-the-badge&logo=apachespark&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-### 🎯 **Predicting Customer Revenue**  
-Created customer segments and estimated revenue using **Rule-Based Classification**.  
-**Technologies**: Python, Pandas, Jupyter Notebook  
+## 🚀 Featured Projects
 
-### 🎯 **Airline Reviews Analysis**  
-Analyzed airline reviews using **PySpark** for large-scale data processing.  
-**Technologies**: PySpark, Seaborn, Matplotlib  
+### 🎯 **Predicting Customer Revenue**
+📌 Created customer segments and estimated revenue using **Rule-Based Classification**.  
+**🔹 Technologies:** Python, Pandas, Jupyter Notebook  
 
-### 🎯 **Movie Recommendation System**  
-Developed a personalized **movie recommendation system** using Flask and Cosine Similarity.  
-**Technologies**: Flask, Scikit-learn, HTML, CSS  
+### 🎯 **Airline Reviews Analysis**
+📌 Analyzed airline reviews using **PySpark** for large-scale data processing.  
+**🔹 Technologies:** PySpark, Seaborn, Matplotlib  
 
-### 🎯 **End-to-End Data Analysis**  
-Cleaned, processed, and visualized datasets using **Power BI** and Python.  
-**Technologies**: Power BI, Python, Oracle SQL  
+### 🎯 **Movie Recommendation System**
+📌 Developed a personalized **movie recommendation system** using Flask and Cosine Similarity.  
+**🔹 Technologies:** Flask, Scikit-learn, HTML, CSS  
 
-### 🎯 **Customer Feedback Analysis and Sentiment Analysis**  
-Explored customer feedback and performed sentiment analysis using **PySpark** and **SQL**.  
-**Technologies**: PySpark, Pandas, Faker, TextBlob, NLTK  
+### 🎯 **Customer Feedback Sentiment Analysis**
+📌 Explored customer feedback and performed sentiment analysis using **PySpark** and **SQL**.  
+**🔹 Technologies:** PySpark, Pandas, TextBlob, NLTK  
 
-🔗 Explore more of my projects on [Medium](https://medium.com/@Mehmtcnangn).  
+🔗 **Explore More Projects on [Medium](https://medium.com/@Mehmtcnangn)**
 
 ---
 
 ## 🌍 Connect with Me
-<a href="https://www.linkedin.com/in/mehmetcan-angün-28353406-ma" style="background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">LinkedIn</a>
-<a href="https://medium.com/@Mehmtcnangn" style="background-color: #000000; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Medium</a> 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmetcan-angün-28353406-ma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@Mehmtcnangn" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
 
 ---
 
-💡 *"I believe in continuous learning and aspire to create impactful solutions in the data engineering domain. Let's build something amazing together!"*  
-
-![Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdodzI4bTFmOW9xbW03a21iYTNhNDA0aGhmNGVkejg4cTdrenI4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+💡 *"I believe in continuous learning and aspire to create impactful solutions in the data engineering domain. Let's build something amazing together!"* 🚀
