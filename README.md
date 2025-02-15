@@ -75,8 +75,8 @@ Explored customer feedback and performed sentiment analysis using **PySpark** an
 ---
 
 ## 🌍 Connect with Me
-- **LinkedIn**: [Mehmetcan ANGÜN](https://www.linkedin.com/in/mehmetcan-angün-28353406-ma)   
-- **Medium**: [Mehmetcan ANGÜN](https://medium.com/@Mehmtcnangn)  
+<a href="https://www.linkedin.com/in/mehmetcan-angün-28353406-ma" style="background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">LinkedIn</a>
+<a href="https://medium.com/@Mehmtcnangn" style="background-color: #000000; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Medium</a> 
 
 ---
 
