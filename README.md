@@ -1,7 +1,8 @@
-![Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdodzI4bTFmOW9xbW03a21iYTNhNDA0aGhmNGVkejg4cTdrenI4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Header GIF">
+</p>
 
 # 🌟 Mehmetcan ANGÜN | Junior Big Data Engineer  
-
 🚀 Passionate about **Big Data, Machine Learning, and Data Engineering**. Turning raw data into actionable insights!  
 
 ---
@@ -58,9 +59,14 @@
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FrMzdrYXIxZDVhamhoNzdncHF6MHNsazZqNTlwbWdod2djNjI2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CCPw50IMVRu0DVwd0A/giphy.gif)](https://www.linkedin.com/in/mehmetcan-angün-28353406-ma)
-
-[![Medium](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ4czdzZ2cyOTMwb2hleXBxYWl1aWhwZzhjdjFxd3A2aDFyZXgwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wq8i42KPEkv73G9Y4p/giphy.gif)](https://medium.com/@Mehmtcnangn)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmetcan-angün-28353406-ma">
+    <img src="https://media1.giphy.com/media/CCPw50IMVRu0DVwd0A/giphy.gif" width="120px" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@Mehmtcnangn">
+    <img src="https://media3.giphy.com/media/Wq8i42KPEkv73G9Y4p/giphy.gif" width="120px" alt="Medium">
+  </a>
+</p>
 
 ---
 
