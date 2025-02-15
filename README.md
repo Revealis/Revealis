@@ -58,21 +58,8 @@
 
 ## 🌍 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehmetcan-angün-28353406-ma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: all 0.3s;">
-  </a>
-  <a href="https://medium.com/@Mehmtcnangn" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="transition: all 0.3s;">
-  </a>
-</p>
-
-<style>
-a:hover img {
-  transform: scale(1.1);
-  transition: all 0.3s ease-in-out;
-}
-</style>
+[![LinkedIn](https://media.giphy.com/media/Q8I2t1gGShlXaXgFVm/giphy.gif)](https://www.linkedin.com/in/mehmetcan-angün-28353406-ma)
+[![Medium](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)](https://medium.com/@Mehmtcnangn)
 
 ---
 
