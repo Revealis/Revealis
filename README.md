@@ -82,4 +82,4 @@ Explored customer feedback and performed sentiment analysis using **PySpark** an
 
 💡 *"I believe in continuous learning and aspire to create impactful solutions in the data engineering domain. Let's build something amazing together!"*  
 
-![Demo]([https://media.giphy.com/media/your-gif-link.gif](https://gifdb.com/images/high/the-godfather-vito-corleone-welcome-9aeelglw508wud4r.webp))
+![Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdodzI4bTFmOW9xbW03a21iYTNhNDA0aGhmNGVkejg4cTdrenI4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
