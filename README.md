@@ -16,6 +16,13 @@
 
 ## 💻 Technical Skills
 
+- **Programming Languages**: Python, SQL, Linux, Scala, Java, Bash Scripting
+- **Big Data Technologies**: Apache Spark, Kafka, PySpark, Hadoop, Hive
+- **Database Management**: Oracle SQL, PostgreSQL, MSSQL, MySQL, MongoDB, Redis
+- **Visualization Tools**: Power BI, Looker Studio, Tableau, Matplotlib, Seaborn
+- **Cloud Platforms**: AWS, GCP, Azure
+- **Frameworks and Tools**: Flask, FastAPI, Django, Docker, Kubernetes, Pandas, NumPy, NLTK, TensorFlow, PyTorch, Airflow, Prefect, Terraform, Git, CI/CD Pipelines
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -53,12 +60,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmetcan-angün-28353406-ma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: all 0.3s;">
   </a>
   <a href="https://medium.com/@Mehmtcnangn" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="transition: all 0.3s;">
   </a>
 </p>
+
+<style>
+a:hover img {
+  transform: scale(1.1);
+  transition: all 0.3s ease-in-out;
+}
+</style>
 
 ---
 
