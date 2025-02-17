@@ -24,7 +24,7 @@
 - **Cloud Platforms**: AWS, GCP
 - **Frameworks and Tools**: Flask, FastAPI, Django, Docker, Pandas, NumPy, NLTK, TensorFlow, PyTorch, Airflow
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk3ODExMzIsIm5iZiI6MTczOTc4MDgzMiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE3VDA4MjcxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwZDc4MGVkMzZmNjVjZWRiNWI3MmRkNDYwMTA3ZjM4YmI0NzIyMTczYTk3NDk2MGExZmUzMTc2YWU4NDkyOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nSc9JH8CySeI04zLrakLmBHZ-K0K8MsVLt93tStR6Mc)) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDB813?style=for-the-badge&logo=apachespark&logoColor=black)
