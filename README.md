@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Header GIF">
 </p>
 
-# 🌟 Mehmetcan ANGÜN | Junior Big Data Engineer  
+# 🌟 <span style="color: #F56B6B;">Mehmetcan ANGÜN | Junior Big Data Engineer</span> 
 🚀 Passionate about **Big Data, Machine Learning, and Data Engineering**. Turning raw data into actionable insights!  
 
 ---
