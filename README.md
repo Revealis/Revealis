@@ -17,12 +17,12 @@
 
 ## 💻 Technical Skills
 
-- **Programming Languages**: Python, SQL, Linux, Scala, Java, Bash Scripting
+- **Programming Languages**: Python, SQL, Linux, Bash Scripting
 - **Big Data Technologies**: Apache Spark, Kafka, PySpark, Hadoop, Hive
-- **Database Management**: Oracle SQL, PostgreSQL, MSSQL, MySQL, MongoDB, Redis
+- **Database Management**: Oracle SQL, PostgreSQL, MSSQL, MySQL
 - **Visualization Tools**: Power BI, Looker Studio, Tableau, Matplotlib, Seaborn
-- **Cloud Platforms**: AWS, GCP, Azure
-- **Frameworks and Tools**: Flask, FastAPI, Django, Docker, Kubernetes, Pandas, NumPy, NLTK, TensorFlow, PyTorch, Airflow, Prefect, Terraform, Git, CI/CD Pipelines
+- **Cloud Platforms**: AWS, GCP
+- **Frameworks and Tools**: Flask, FastAPI, Django, Docker, Pandas, NumPy, NLTK, TensorFlow, PyTorch, Airflow
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
