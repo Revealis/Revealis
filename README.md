@@ -7,8 +7,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8D62F7&background=FFFFFF00&width=435&lines=Mehmetcan+ANG%C3%9CN+;Junior+Big+Data+Engineer)](https://git.io/typing-svg)
 
-Passionate about **Big Data**, **Machine Learning**, and **Data Engineering**.  
-Transforming raw data into valuable insights! 💡
+<h3 align="center">Passionate about Big Data, Machine Learning, and Data Engineering.Transforming raw data into valuable insights! 💡</h3>
 
 ---
 
@@ -47,14 +46,12 @@ Transforming raw data into valuable insights! 💡
 **Frameworks & Tools**:  
 - Flask, FastAPI, Docker, Pandas, NumPy, NLTK, TensorFlow, Keras, Airflow
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDB813?style=for-the-badge&logo=apachespark&logoColor=black)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,docker,elasticsearch,flask,gcp,ai,kafka,linux,pycharm,postgres,py,sqlite,sklearn,tensorflow,vscode&perline=8" />
+  </a>
+</p>
 
 ---
 
