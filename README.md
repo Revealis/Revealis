@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Header GIF">
+</p>
+
 # 🌟 Mehmetcan ANGÜN | Junior Big Data Engineer 🚀
 
 Passionate about **Big Data**, **Machine Learning**, and **Data Engineering**.  
