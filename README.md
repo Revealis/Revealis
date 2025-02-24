@@ -83,6 +83,14 @@
 
 ---
 
+<h2 align="center" > 💹​ My Contributions 💹​ </h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="https://github.com/Revealis/Revealis/blob/main/github-user-contribution.svg" />
+</picture>
+
+---
+
 ## 🌍 Connect with Me
 
 <p align="center">
@@ -95,10 +103,16 @@
 </p>
 
 ---
+<h3 align="center" > ⚡​ Stats ⚡​​ </h3>
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Revealis&show_icons=true&theme=synthwave"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Revealis&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revealis&show_icons=true&theme=synthwave)
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revealis&layout=donut-vertical&langs_count=6"/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revealis&layout=donut">
+  </a>
+</p>
+
 
 ---
 
