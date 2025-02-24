@@ -1,8 +1,11 @@
+<img align="right" src ="https://visitor-badge.laobi.icu/badge?page_id=Revealis.Revealis&left_text=Hello%20My%20Visitors" />
+
+
 <p align="center">
   <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Header GIF">
 </p>
 
-# 🌟 Mehmetcan ANGÜN | Junior Big Data Engineer 🚀
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8D62F7&background=FFFFFF00&width=435&lines=Mehmetcan+ANG%C3%9CN+;Junior+Big+Data+Engineer)](https://git.io/typing-svg)
 
 Passionate about **Big Data**, **Machine Learning**, and **Data Engineering**.  
 Transforming raw data into valuable insights! 💡
