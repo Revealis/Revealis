@@ -42,7 +42,7 @@ Transforming raw data into valuable insights! 💡
 - AWS, GCP
 
 **Frameworks & Tools**:  
-- Flask, FastAPI, Django, Docker, Pandas, NumPy, NLTK, TensorFlow, PyTorch, Airflow
+- Flask, FastAPI, Docker, Pandas, NumPy, NLTK, TensorFlow, Keras, Airflow
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,6 +80,7 @@ Transforming raw data into valuable insights! 💡
 - **Technologies**: PySpark, Pandas, TextBlob, NLTK  
 
 🔗 **Explore More Projects on [Medium](https://medium.com/@Mehmtcnangn)**
+
 ---
 
 ## 🌍 Connect with Me
@@ -93,8 +94,12 @@ Transforming raw data into valuable insights! 💡
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revealis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Revealis&show_icons=true&theme=synthwave"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revealis&layout=donut-vertical&langs_count=6"/>
 
 ---
 
-## 💡 “I believe in continuous learning and aspire to create impactful solutions in the data engineering domain. Let’s build something amazing together!” 🚀
+## 💡 “We must continue to learn and create effective solutions in the field of data engineering. Data is today's oil!!” 🚀
