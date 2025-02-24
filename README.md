@@ -103,9 +103,13 @@
 </p>
 
 ---
+
 <h3 align="center" > ⚡​ Stats ⚡​​ </h3>
 
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Revealis&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revealis&show_icons=true&theme=synthwave)
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
