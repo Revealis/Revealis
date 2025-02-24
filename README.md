@@ -1,28 +1,44 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Header GIF">
-</p>
+# 🌟 Mehmetcan ANGÜN | Junior Big Data Engineer 🚀
 
-# 🌟 <span style="color: #F56B6B;">Mehmetcan ANGÜN | Junior Big Data Engineer</span> 
-🚀 Passionate about **Big Data, Machine Learning, and Data Engineering**. Turning raw data into actionable insights!  
+Passionate about **Big Data**, **Machine Learning**, and **Data Engineering**.  
+Transforming raw data into valuable insights! 💡
 
 ---
 
 ## 📌 About Me
-- 🎓 **Master’s Degree (Ongoing)** in Data Analytics and Machine Learning @ *İzmir Katip Çelebi University*
-- 🎓 **Bachelor’s Degree** in Biomedical Engineering @ *İzmir Katip Çelebi University*
-- 🔥 Specialized in **Apache Spark, Kafka, SQL, and Python**
-- 💡 Interested in **AI applications in healthcare and cloud computing**
+
+🎓 **Master’s Degree (Ongoing)** in Data Analytics and Machine Learning @ **İzmir Katip Çelebi University**  
+🎓 **Bachelor’s Degree** in Biomedical Engineering @ **İzmir Katip Çelebi University**
+
+🔥 **Specialized in**:  
+- **Apache Spark**, **Kafka**, **SQL**, **Python**
+
+💡 **Interests**:  
+- AI applications in **Healthcare**  
+- **Cloud Computing**
+- **Data Engineering**
 
 ---
 
 ## 💻 Technical Skills
 
-- **Programming Languages**: Python, SQL, Linux, Bash Scripting
-- **Big Data Technologies**: Apache Spark, Kafka, PySpark, Hadoop, Hive
-- **Database Management**: Oracle SQL, PostgreSQL, MSSQL, MySQL
-- **Visualization Tools**: Power BI, Looker Studio, Tableau, Matplotlib, Seaborn
-- **Cloud Platforms**: AWS, GCP
-- **Frameworks and Tools**: Flask, FastAPI, Django, Docker, Pandas, NumPy, NLTK, TensorFlow, PyTorch, Airflow
+**Programming Languages**:  
+- Python, SQL, Linux, Bash Scripting
+
+**Big Data Technologies**:  
+- Apache Spark, Kafka, PySpark, Hadoop, Hive
+
+**Database Management**:  
+- Oracle SQL, PostgreSQL, MSSQL, MySQL
+
+**Visualization Tools**:  
+- Power BI, Looker Studio, Tableau, Matplotlib, Seaborn
+
+**Cloud Platforms**:  
+- AWS, GCP
+
+**Frameworks & Tools**:  
+- Flask, FastAPI, Django, Docker, Pandas, NumPy, NLTK, TensorFlow, PyTorch, Airflow
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,23 +54,29 @@
 ## 🚀 Featured Projects
 
 ### 🎯 **Predicting Customer Revenue**
-📌 Created customer segments and estimated revenue using **Rule-Based Classification**.  
-**🔹 Technologies:** Python, Pandas, Jupyter Notebook  
+- **Description**: Created customer segments and estimated revenue using Rule-Based Classification.  
+- **Technologies**: Python, Pandas, Jupyter Notebook  
+- **Link**: [Project Details](#)
+
+---
 
 ### 🎯 **Airline Reviews Analysis**
-📌 Analyzed airline reviews using **PySpark** for large-scale data processing.  
-**🔹 Technologies:** PySpark, Seaborn, Matplotlib  
+- **Description**: Analyzed large-scale airline reviews using **PySpark** for efficient data processing.  
+- **Technologies**: PySpark, Seaborn, Matplotlib  
+
+---
 
 ### 🎯 **Movie Recommendation System**
-📌 Developed a personalized **movie recommendation system** using Flask and Cosine Similarity.  
-**🔹 Technologies:** Flask, Scikit-learn, HTML, CSS  
+- **Description**: Developed a personalized movie recommendation system using Flask and Cosine Similarity.  
+- **Technologies**: Flask, Scikit-learn, HTML, CSS  
+
+---
 
 ### 🎯 **Customer Feedback Sentiment Analysis**
-📌 Explored customer feedback and performed sentiment analysis using **PySpark** and **SQL**.  
-**🔹 Technologies:** PySpark, Pandas, TextBlob, NLTK  
+- **Description**: Explored customer feedback and performed sentiment analysis using PySpark and SQL.  
+- **Technologies**: PySpark, Pandas, TextBlob, NLTK  
 
 🔗 **Explore More Projects on [Medium](https://medium.com/@Mehmtcnangn)**
-
 ---
 
 ## 🌍 Connect with Me
@@ -67,7 +89,12 @@
     <img src="https://media3.giphy.com/media/Wq8i42KPEkv73G9Y4p/giphy.gif" width="120px" alt="Medium">
   </a>
 </p>
+---
+
+## 📈 GitHub Stats
+
+![Mehmetcan ANGÜN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Revealis&show_icons=true&theme=radical)
 
 ---
 
-💡 *"I believe in continuous learning and aspire to create impactful solutions in the data engineering domain. Let's build something amazing together!"* 🚀
+## 💡 “I believe in continuous learning and aspire to create impactful solutions in the data engineering domain. Let’s build something amazing together!” 🚀
