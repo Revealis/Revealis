@@ -97,7 +97,7 @@ Transforming raw data into valuable insights! 💡
 
 ## 📈 GitHub Stats
 
-![Mehmetcan ANGÜN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Revealis&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Revealis&show_icons=true&theme=radical&cache_seconds=86400&token=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)
 ---
 
 ## 💡 “I believe in continuous learning and aspire to create impactful solutions in the data engineering domain. Let’s build something amazing together!” 🚀
