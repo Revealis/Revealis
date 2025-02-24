@@ -60,7 +60,6 @@ Transforming raw data into valuable insights! 💡
 ### 🎯 **Predicting Customer Revenue**
 - **Description**: Created customer segments and estimated revenue using Rule-Based Classification.  
 - **Technologies**: Python, Pandas, Jupyter Notebook  
-- **Link**: [Project Details](#)
 
 ---
 
