@@ -93,6 +93,8 @@ Transforming raw data into valuable insights! 💡
   </a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revealis)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 💡 “I believe in continuous learning and aspire to create impactful solutions in the data engineering domain. Let’s build something amazing together!” 🚀
